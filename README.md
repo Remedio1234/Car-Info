@@ -1,10 +1,15 @@
-Functionalities
-Search By name
-![Alt Text](images/search.png)
-Pagination
-Edit
-![Alt Text](images/edit.png)
-Delete
-![Alt Text](images/delete.png)
-List
-![Alt Text](images/main.png)
+# Technical Assessment (PANFILO O. REMEDIO JR.)
+
+## Functionalities
+
+### Search By Name
+![Search By Name](images/search.png)
+
+### Edit
+![Edit](images/edit.png)
+
+### Delete
+![Delete](images/delete.png)
+
+### List with pagination
+![List](images/main.png)
