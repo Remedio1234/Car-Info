@@ -71,7 +71,7 @@
 </template>
 
 <script setup lang="ts">
-import { ProductProps, TableColumns } from '../models/product';
+import { ProductProps, TableColumns } from '../Models/product';
 import { useProductStore } from '../../store/ProductStore';
 import { computed, ref, watch } from 'vue';
 

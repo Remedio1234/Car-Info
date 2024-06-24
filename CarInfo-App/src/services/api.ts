@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { Products } from 'src/components/models/product';
+import { Products } from 'src/components/Models/product';
 
 const API_BASE_URL = 'https://dummyjson.com';
 
