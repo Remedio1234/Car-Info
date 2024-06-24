@@ -11,5 +11,5 @@
 ### Delete
 ![Delete](images/delete.png)
 
-### List wit pagination
+### List with pagination
 ![List](images/main.png)
