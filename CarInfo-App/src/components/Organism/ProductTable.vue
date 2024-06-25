@@ -113,7 +113,6 @@ const openEditDialog = (product: ProductProps) => {
   editDialogVisible.value = true;
 };
 
-
 // Function to close edit dialog
 const closeEditDialog = () => {
   editDialogVisible.value = false;
