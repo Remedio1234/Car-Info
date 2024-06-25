@@ -79,7 +79,7 @@ const productStore = useProductStore();
 const columns: TableColumns[] = [
     { name: 'id', label: 'ID', field: 'id', align: 'left', sortable: true },
     { name: 'sku', label: 'SKU', field: 'sku', align: 'left', sortable: true },
-    { name: 'title', label: 'Title', field: 'title', align: 'left', sortable: true, sort: (a, b) => parseInt(a, 10) - parseInt(b, 10) },
+    { name: 'title', label: 'Title', field: 'title', align: 'left', sortable: true},
     { name: 'description', label: 'Description', field: 'description', align: 'left' },
     { name: 'category', label: 'Category', field: 'category', align: 'left', sortable: true },
     { name: 'price', label: 'Price', field: 'price', align: 'left', sortable: true },
