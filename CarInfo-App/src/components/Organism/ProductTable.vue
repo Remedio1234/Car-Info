@@ -1,6 +1,5 @@
 <template>
   <div>
-    <h2>Product List</h2>
     <!-- Search input -->
     <q-input
       v-model="filter"
@@ -12,13 +11,13 @@
     />
     <!-- Product table -->
     <q-table
+      title="Product List"
       :rows="filteredProducts"
       :columns="columns"
       row-key="id"
       :pagination="pagination"
       :rows-per-page-options="[5, 10, 20]"
       :loading="loading"
-      virtual-scroll
       class="q-mt-lg"
     >
       <!-- Refresh -->
