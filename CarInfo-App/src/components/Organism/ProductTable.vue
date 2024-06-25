@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="q-pa-md">
     <!-- Search input -->
     <q-input
       v-model="filter"
