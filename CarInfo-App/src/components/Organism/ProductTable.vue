@@ -84,7 +84,7 @@ const columns: TableColumns[] = [
     { name: 'category', label: 'Category', field: 'category', align: 'left', sortable: true },
     { name: 'price', label: 'Price', field: 'price', align: 'left', sortable: true },
     { name: 'totalRating', label: 'Total Rating', field: 'rating', align: 'left', sortable: true },
-    { name: 'action', label: 'Action', field: '', align: 'center' },
+    { name: 'action', label: 'Actions', field: '', align: 'center' },
 ];
 
 // Pagination and filter settings
